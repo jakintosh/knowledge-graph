@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "83ab795fd39edc83",
+        "id": "41c53c2a2aad5ec3",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "empty",
           "state": {}
@@ -37,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#playlist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,6 +68,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,8 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "lastOpenFiles": []
+  "active": "41c53c2a2aad5ec3",
+  "lastOpenFiles": [
+    "Playlists/Systems.md",
+    "Playlists/Knowledge.md",
+    "Manifesto.md",
+    "Sections/Outline.md",
+    "Authors/Jeremy.md",
+    "Authors/Jak.md",
+    "Concepts/Connections as Value.md",
+    "Concepts/Complex Systems.md",
+    "Concepts/Knowledge is Derivable.md",
+    "Concepts/Perception Shapes Reality.md"
+  ]
 }

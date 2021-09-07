@@ -1,0 +1,1 @@
+The entire universe can be understood as a single all encompassing [[Complex Systems|complex system]]. The inputs are every particle in the universe, the processes are all of the (known and unknown) laws of physics, and the output is a new state for every particle in the universe.
