@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "41c53c2a2aad5ec3",
+        "id": "4538305637f90dfb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Concepts/Systems are Inputs and Outputs.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#playlist",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333
   },
   "right": {
     "id": "55454649415ddb1b",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Systems are Inputs and Outputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "41c53c2a2aad5ec3",
+  "active": "4538305637f90dfb",
   "lastOpenFiles": [
-    "Playlists/Systems.md",
-    "Playlists/Knowledge.md",
-    "Manifesto.md",
-    "Sections/Outline.md",
-    "Authors/Jeremy.md",
-    "Authors/Jak.md",
-    "Concepts/Connections as Value.md",
-    "Concepts/Complex Systems.md",
-    "Concepts/Knowledge is Derivable.md",
-    "Concepts/Perception Shapes Reality.md"
+    "Concepts/Systems — inputs and outputs.md",
+    "Table of Contents.md",
+    "Where Do We Go From Here? (And Why?).md",
+    "Chapters/part i, chapter i - coalescence.md",
+    "Chapters/part i, introduction - why we start with how.md",
+    "Chapters/part i, conclusion - the big picture.md",
+    "Chapters/part i, chapter iii - shifting.md",
+    "Chapters/part i, chapter ii - the social super-organism.md",
+    "part i, conclusion - the big picture.md",
+    "part i, introduction - why we start with how.md"
   ]
 }

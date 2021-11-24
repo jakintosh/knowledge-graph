@@ -185,8 +185,8 @@ Disabled features */
   --h5-color:var(--text-normal);
   --h6-color:var(--text-muted);
 
-  --normal-weight:400;   /* Switch to 300 if you want thinner default text */
-  --bold-weight:600;     /* Switch to 700 if you want thicker bold text */
+  --normal-weight:300;   /* Switch to 300 if you want thinner default text */
+  --bold-weight:700;     /* Switch to 700 if you want thicker bold text */
   --line-width:40rem;    /* Maximum characters per line */
   --line-height:1.5;
   --max-width:88%;       /* Amount of padding around the text, use 90% for narrower padding */

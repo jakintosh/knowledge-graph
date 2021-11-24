@@ -1,9 +1,9 @@
 tags: #playlist
 
-![[Systems — inputs and outputs]]
+![[Systems are Inputs and Outputs]]
 ![[Simple Systems]]
-![[The Universal System]]
 ![[Complex Systems]]
-![[Systems of Extraction]]
-![[Systems of Regeneration]]
-![[Systems as Fractals]]
+![[Systems as Models]]
+![[System Expansion]]
+![[The Universal System]]
+![[Systems of Production]]

@@ -1,0 +1,3 @@
+- topic 1: individualism and collectivism
+- topic 2: hierarchy and holarchy
+- topic 3: the cancer of the super-organism

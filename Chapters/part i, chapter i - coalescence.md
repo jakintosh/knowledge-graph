@@ -1,0 +1,3 @@
+- [[part i, chapter i - coalescence#lenses|Lenses]]
+- [[part i, chapter i - coalescence#systems|Systems]]
+- [[part i, chapter i - coalescence#abstractions|Abstractions]]

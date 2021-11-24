@@ -4,7 +4,7 @@
 ![[Table of Contents]]
 ![[Goals]]
 ![[Outcomes]]
-![[Outline]]
+![[Archived/Outline]]
 
 ##### Comments
 - [[Jeremy]]: Help the community reflect - keep itself accountable - help it reflect

@@ -1,5 +1,6 @@
 ### [[Systems]]
-- [[Systems — inputs and outputs]]
+- [[Systems are Inputs and Outputs]]
+- [[Systems as Models]]
 - [[Simple Systems]]
 - [[The Universal System]]
 - [[Complex Systems]]
@@ -74,3 +75,4 @@
 
 ##### Comments
 - [[Jeremy]]: Who is the target audience? Why? What motivates those choices (there’s two of us) personally? What kind of vocabulary (complexity level/terminology - or how to avoid jargon)?
+
