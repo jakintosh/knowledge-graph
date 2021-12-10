@@ -20,24 +20,16 @@
 - Collectivism, prioritizing the “whole”, more in line with nature
 - Cooperation as natural process, as opposed to competition
 - Coalescism -> the curse of language (how language can make it seem like we aren’t aligned when we are: falsified/false abstractions?) -raisondecalcul
-- The Egg story (+ Charles Eisenstein ~ Story: A Tribe Like Ours) - psychedelics? -> experience of oneness?
-- Larger narratives - meta-narratives (Storyteller Consciousness - CE)
-- Scientism - western
+- Larger narratives
 - “Generalists” vs “Specialists” (generalists can make connections, specialists are used to alienate from things usually by capital) (‘renaissance man’, ‘trans-disciplinary’ = normal, the division of intellectual labor benefits capital, stops workers seeing relationships)
 - Exploring Tribes vs Tribalism
 
 ### [[Knowledge]]
 - [[Knowledge is Derivable]]
 - [[Connections as Value]]
-- Knowledge is inherently “free” (zero marginal cost of reproduction - Michel Bauwens: 1) pseudo-abundance and 2) artificial scarcity/IP monopoly) - today it’s ‘rented’ out
-- The power of open knowledge - organic bridges/bridging
-- What does socialist science production look like -> parallel discoveries+results
+- Knowledge is inherently “free”
+- The power of open knowledge
 - Open source everything manifesto - robert david steele
-
-### Learning
-- Rhizomatic and self-directed learning
-- Carol Black - decolonizing education - Nora Bateson
-- Winnie Lim - modular flash card learning
 
 ### Economics
 - Marx - historical and dialectical materialism
@@ -50,7 +42,7 @@
 
 ### Agent Centricity
 - [[Perception Shapes Reality]]
-- Holochain - arthur and ERic (agent centric vs. data centric)
+- Holochain - arthur and eric (agent centric vs. data centric)
 - Protocols in general
 - Distributed Computing Architectures (maybe beyond just computers, the ideas of distributed systems as a whole)
 - Agent-centric “thinking” -> pyramid (hierarchy) to circle (network)

@@ -4,8 +4,8 @@ preface: what this book is about, and what it hopes to achieve
 
 ---
 
-part i: how to look at things
-====================
+part i: how to look at the world
+========================
 
 [[part i, introduction - why we start with how]]
 [[part i, chapter i - coalescence]]
@@ -15,8 +15,8 @@ part i: how to look at things
 
 ---
 
-part ii: looking at things
-=================
+part ii: looking at the world
+=====================
 
 part ii, intro:
 part ii, chapter i: production — the issues with how we produce
@@ -27,8 +27,8 @@ part ii, conclusion:
 
 ---
 
-part iii: changing things
-=================
+part iii: changing the world
+=====================
 
 part iii, chapter i: labor and resources
 part iii, chapter ii: peer to peer revolution

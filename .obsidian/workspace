@@ -1,16 +1,27 @@
 {
   "main": {
-    "id": "3e0846d630f7418c",
+    "id": "25bb8d41484562da",
     "type": "split",
     "children": [
       {
-        "id": "4538305637f90dfb",
+        "id": "d620d89f233d49db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Systems are Inputs and Outputs.md",
-            "mode": "preview"
+            "file": "Table of Contents.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8d7709d5080a67d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapters/part i, introduction - why we start with how.md",
+            "mode": "source"
           }
         }
       }
@@ -18,84 +29,69 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bc884a148f50ffa8",
-    "type": "split",
+    "id": "ee2df210d84442b7",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "56e4e7386049ed46",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef7efb001fa68271",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "43608732b9b003c0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "746d5dcccdeb62dc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "6009bf57317dc10b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 333
+    "currentTab": 0
   },
   "right": {
-    "id": "55454649415ddb1b",
-    "type": "split",
+    "id": "3c16afdfb4ccdac3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b1ffbe9723c0826c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2c359eda1de0219",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Concepts/Systems are Inputs and Outputs.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "66b61b44c68ba69a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Chapters/part i, introduction - why we start with how.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
-  "active": "4538305637f90dfb",
+  "active": "8d7709d5080a67d6",
   "lastOpenFiles": [
-    "Concepts/Systems — inputs and outputs.md",
-    "Table of Contents.md",
-    "Where Do We Go From Here? (And Why?).md",
-    "Chapters/part i, chapter i - coalescence.md",
     "Chapters/part i, introduction - why we start with how.md",
-    "Chapters/part i, conclusion - the big picture.md",
-    "Chapters/part i, chapter iii - shifting.md",
+    "Table of Contents.md",
+    "Outline.md",
     "Chapters/part i, chapter ii - the social super-organism.md",
-    "part i, conclusion - the big picture.md",
-    "part i, introduction - why we start with how.md"
+    "the era of coalescence.md",
+    "Concepts/_ideas.md",
+    "Archived/Goals.md",
+    "Chapters/part i, chapter i - coalescence.md",
+    "test.md"
   ]
 }
