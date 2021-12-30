@@ -1,6 +1,5 @@
 ---
 tags:
 - stub
-- systems
 - economics
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+- systems
+---
 The simplest [[Systems as Models|system model]] has one input, one process, and one output. Simple systems in can loosely be defined as a system where there are so few inputs, processes, and outputs, that we can see the direct influence that a change in input has on the output.
 
 A classic simple system example is a heat thermostat: the input is “current temperature”, the process is “check to see if the current temperature is lower than the set temperature”, and the output is “heat (or no heat)”. This system runs continuously, constantly checking the temperature, and turning the heater on or off.

@@ -1,1 +1,5 @@
+---
+tags:
+- knowledge
+---
 When understanding that [[Knowledge is Derivable|knowledge is derivable]], it loses a lot of value. Facts can be observed and deduced by many people, and historically this is common with parallel inventions of key technologies; when working off of the same common body of knowledge, discovering the next step in that chain of research is very plausible to happen independently and simultaneously. However, while knowledge loses its value in open (digital?) systems because of how its scarcity is reduced, the connections between ideas becomes a truly valuable resource. While there are only n pieces of knowledge to discover, there are nn connections to be made (while n may be numerically large, nn is effectively infinite). In these connections lie the major technological and societal breakthroughs of the future. Finding these connections requires the commodity of knowledge to be accessible to the billions of minds that have their own unique perspectives on the world, so that they can contribute their valuable connections.

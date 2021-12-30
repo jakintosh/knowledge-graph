@@ -1,0 +1,5 @@
+# Goal of this Graph
+Focused, impactful education crowdsourced to be approachable from many different angles can rapidly increase deep awareness of these problems among the people. Providing pathways to action along with tools for living out these new economies and lifestyles can create a rapid deflation of the old system, perhaps with minimal violence. A rapid transition to an equitable, just, ecologically balanced structure for society is possible with the right leverage points.
+
+# How to Use
+This graph was built with [Obsidian.md](https://obsidian.md), so opening this project folder as a "Valut" in that application will be the easiest way to navigate its contents. One day, I hope to move this out of Obsidian into another [project](https://github.com/jakintosh/coalescent-computer-protocol) [(or two)](https://github.com/jakintosh/knowledge-explorer) that I'm working on, which should allow for more seamless exploration of semantic graph content.

@@ -1,3 +1,8 @@
+---
+tags:
+- systems
+- economics
+---
 When thinking about human economies, a helpful lens is that they are collections of systems of production. Each system in the economy is a process of production, where source resources are converted into different resources. A very simple example is this system for producing corn:
 
 `{ soil, seeds } => { corn }`
