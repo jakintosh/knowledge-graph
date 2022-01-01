@@ -2,19 +2,8 @@
 Exploring the core concepts of systems; what they are, how they work, and how to think about them.
 
 ## Concepts
-- [[Systems are Inputs and Outputs]]
-- [[Systems as Models]]
-- [[Simple Systems]]
-- [[The Universal System]]
-- [[Complex Systems]]
-- [[Systems of Extraction]]
-- [[Systems of Regeneration]]
-- [[Systems as Fractals]]
-- [[Lagging Indicators]]
 
 ## Topics
-- [[Upward Spiral]]
-- [[Permaculture]] 
 - Socialism (not sure why this is here lol?)
 
 ---
@@ -23,9 +12,6 @@ Exploring the core concepts of systems; what they are, how they work, and how to
 New ways to look at the world from a story-telling perspective. How can we synthesize many concepts into cohesive stories about the world?
 
 ## Concepts
-- [[Individualism]]
-- [[Collectivism]]
-- [[Coalescence]]
 
 ## Topics
 - Individualism as Cancer
@@ -39,8 +25,6 @@ New ways to look at the world from a story-telling perspective. How can we synth
 # Knowledge
 
 ## Concepts
-- [[Knowledge is Derivable]]
-- [[Connections as Value]]
 - Knowledge is inherently “free”
 
 ## Topics
@@ -69,7 +53,6 @@ New ways to look at the world from a story-telling perspective. How can we synth
 # Agent Centricity
 
 ## Concepts
-- [[Perception Shapes Reality]]
 - Agent-centric vs. Data-centric
 - Agent-centric “thinking” -> from hierarchy to network
 - Protocols in general

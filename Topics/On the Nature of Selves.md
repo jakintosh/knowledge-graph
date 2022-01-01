@@ -1,5 +1,6 @@
 ---
 tags:
+- topic
 - lenses
 - philosophy
 ---

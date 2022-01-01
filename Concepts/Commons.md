@@ -1,6 +1,5 @@
 ---
 tags:
 - stub
-- topic
 - economics
 ---

@@ -1,7 +1,11 @@
 ---
 tags:
 - systems
-- economics
-- capitalism
 ---
-Our current economic system is built for extraction. Our production process is almost completely based on locating natural resources (like oil, minerals, or timber), extracting them for use in production, and then finding new resources once a resource pool is empty. This type of extractive system has come into existence because of the shape of our dominant economic theory. Under neoclassical economics (supply and demand, market-centric, profit motive), the [[Perception Shapes Reality|perception that shapes reality]] is that short term gains have a higher priority than long term sustainability, and that non-financial costs are ignored as “externalities”. In practice, this means that from the viewpoint of the economic system itself, it cannot account for the long term implications of exhausting resources, and it cannot account for the ecological damage that it causes; those effects are “blind spots” caused by the theories themselves.
+In a system of extraction, the inputs needed for the [[Complex Systems|system]] to run are more than the outputs that the system produces. As an abstract example, we have this system:
+
+`{object, object} => {object}`
+
+This system is taking two input objects, but only produces one output object. Each cycle through this process cuts the number of objects in half, and eventually there wont be enough inputs for the system to continue running.
+
+Real world examples are more complex, but follow the same basic rule. In the case of burning fossil fuels, we know for a fact that there are a finite amount of fossil fuels (oil, natural gas, coal) in the ground, and that burning them converts them into energy and non-usable waste (like greenhouse gasses). By looking at the system in this way we can see that burning fossil fuels for energy is an extractive system that will inevitably end; it is physically impossible for them to be used forever, since they are finite.

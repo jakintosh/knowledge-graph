@@ -4,3 +4,5 @@ tags:
 - topic
 - economics
 ---
+![[Stewardship]]
+![[Ownership]]

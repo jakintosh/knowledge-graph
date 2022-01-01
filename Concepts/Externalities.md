@@ -1,6 +1,6 @@
 ---
 tags:
 - stub
-- topic
 - economics
+- capitalism
 ---

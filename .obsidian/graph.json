@@ -1,7 +1,7 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,20 +11,34 @@
       "query": "tag:#stub",
       "color": {
         "a": 1,
-        "rgb": 16757294
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#wip",
+      "color": {
+        "a": 1,
+        "rgb": 16357392
+      }
+    },
+    {
+      "query": "tag:#topic",
+      "color": {
+        "a": 1,
+        "rgb": 708351
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "nodeSizeMultiplier": 1.38557692307692,
+  "lineSizeMultiplier": 2.95847355769231,
+  "collapse-forces": true,
   "centerStrength": 0.410199175824176,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 242,
-  "scale": 1.0308769864328151,
+  "scale": 0.8192600876921956,
   "close": false
 }
