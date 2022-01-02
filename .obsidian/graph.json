@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#economics",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 242,
-  "scale": 1.4748712953630572,
+  "scale": 0.6358647657495388,
   "close": false
 }

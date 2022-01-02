@@ -9,16 +9,16 @@ tags:
 # Intent
 The intent of this topic is to lay a groundwork of understanding for "subjective reality", to help the reader start to think of the world in terms of lenses, and perhaps begin to see the world at a higher layer of abstraction than they are used to.
 
+# Relevant Concepts
+![[Subjective Reality]]
+![[Objective Reality]]
+
 # Outline
 - Physical senses shape subjective reality
 	- Physcial senses allow us to perceive the world
 	- They accumulate and filter raw data of the physcial world
 	- We each have our own set of sensory abilities, and our own unique subjective reality
 - 
-
-# Relevant Concepts
-![[Subjective Reality]]
-![[Objective Reality]]
 
 # Intro: Defining "Subjective" and "Objective" Reality
 Before we begin, I think it will be helpful to quickly and clearly define these terms to make sure we are on the same page. In very simple language, "subjective reality" means "reality from one person's perspective". Likewise, simply, "objective reality" means "the true reality". The names of these terms come from the fact that a "subject" (person) observes an "object" (the world), and we now have two sides of a story: the information according to the subject (subjective) and the information according to the object (objective).

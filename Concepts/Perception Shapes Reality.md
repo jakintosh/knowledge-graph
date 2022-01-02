@@ -10,5 +10,5 @@ For example, reality for a tiny insect with limited eyesight is much different t
 This notion that perception shapes reality is a fundamental building block for definig a [[Lens]].
 
 ### Notes
-A great visual example:
+A great visual example of how a lens (represented by background color) changes the perception of the same set of lines:
 ![[ont-michelle-lenses.jpeg|200]]

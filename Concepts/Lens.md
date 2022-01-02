@@ -2,7 +2,7 @@
 tags:
 - lenses
 ---
-A lens is a "way of looking at the world". Lenses are not a scientific method, but a tool for creatively observing the world and coming up with new ideas.
+A lens is a "way of looking at the world". Using a lens is not a scientific process, but thinking with lenses is a tool for creatively observing the world and coming up with new ideas.
 
 The term comes from a physical lens in a pair of glasses, where the wearer looks "through" the lens to see the world more clearly. However, in our context, we can also think of them as enabling other ways of seeing the world; in our glasses analogy, they could be filtering light like polarized sunglasses, or tinting colors for night time driving, or processing the light in a completly different way like night-vision goggles.
 
