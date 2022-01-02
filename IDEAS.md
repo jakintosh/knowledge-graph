@@ -1,3 +1,8 @@
+# Running List
+- humanity's ability to adapt to new environments and also to create new environments, but inability to sustain action against the will of a given environment: i.e. capable of change, but through the creation of new environments/systems, not through sheer force of will
+
+---
+
 # Systems
 Exploring the core concepts of systems; what they are, how they work, and how to think about them.
 
