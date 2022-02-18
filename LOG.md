@@ -11,3 +11,6 @@ Starting to have a better way to organize this. Right now the idea is to have a 
 
 # 2021.12.31
 Been really playing around with this the last two days, getting a better feel for these pieces. Still don't feel like it's fully given me the freedom I'm looking for, but I'm really just eager to make any kind of sense of this at all. And I think either way, I can extract whatever I do here to some other system later on.
+
+# 2022.01.08
+Got pulled away from this for a few days. Some of these things are starting to feel way too big, especially as I try to consolidate them into larger topics for a video or essay. I'm struggling to connect the bite-sized concepts into meaningful compound ideas. Perhaps I need a new approach... what if videos were presented as a collection of small concepts, with a "connecting the dots" section at the end? This would certainly make my life easier, and might also go further to show people how larger ideas are made of smaller ones. But would we lose a lot of connective tissue this way? It's unclear. Maybe later on once a lot of the groundwork is established, there can be looser topics that don't isolate components that build more of that connective tissue back up.
