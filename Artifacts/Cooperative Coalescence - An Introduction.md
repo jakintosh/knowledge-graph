@@ -14,7 +14,7 @@ The foundational truths that I challenge are:
 2. Change is created through a series of causes and effects
 3. There is a single, shared, objective reality that we all occupy together
 
-These three truths together provide the basis for a worldview in which: (1) an individual human can morally make decisions for only themselves; (2) using a short term cost/benefit analysis based on cause and effect; (3) within a sing shared reality of limited resources. This worldview is at the core of the current primary operating system, which is *Competitive Individualism*.
+These three truths together provide the basis for a worldview in which: (1) an individual human can morally make decisions for only themselves; (2) using a short term cost/benefit analysis based on cause and effect; (3) within a single shared reality of limited resources. This worldview is at the core of the current primary operating system, which is *Competitive Individualism*.
 
 The alternative truths that underlie Cooperative Coalescence are:
 1. The organism is just another layer in the holarchy of life; much like cells are individual living units that come together to form more complicated structures like plants and animals, organisms come together to create complex superorganisms like human societies, and those superorganisms come together to create ecological systems like forests and oceans, ultimately coalescing into the single living organism of the entire global ecology
